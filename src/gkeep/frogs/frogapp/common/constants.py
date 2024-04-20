@@ -1,0 +1,13 @@
+FROG_STATUS = {
+  0: 'NOT_STARTED',
+  1: 'STARTED',
+  2: 'COMPLETED',
+  3: 'DELETED'
+}
+
+TASK_STATUS = {
+  0: 'NOT_STARTED',
+  1: 'STARTED',
+  2: 'COMPLETED',
+  3: 'DELETED'
+}
